@@ -76,7 +76,7 @@ Both quest NPCs and mobs are in this file.
     },
     ["fac"] = faction,
     ["lvl"] = level, -- can be ranges like 21-23
-    ["rnk"] = rank  -- 1 = elite?, 2 = rare elite?, no rank = normal mob
+    ["rnk"] = rank  -- no rank / 0 = normal mob, 1 = Elite, 2 = Rare Elite, 3 = Boss (World Boss / Raid Bosses / Faction Leaders), 4 = Rare -> classification information from: https://www.wowhead.com/classic/npcs/classification:3
 },
 ```
 
