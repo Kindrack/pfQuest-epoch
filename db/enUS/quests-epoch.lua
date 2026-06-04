@@ -6280,7 +6280,7 @@ pfDB["quests"]["enUS-epoch"] = {
     ["D"] = "This next task is much more challenging than the last one. Maybe there\'s still time to get turned into ash!\n\nThe Burning Blade have an obvious presence in the ruins at Mannoroc Coven, along the road that leads east from Shadowprey. I\'m sure others around here will give you mundane tasks to deal with the demons there, but we only care about one of them.\n\nShireena the Succubus possesses the only copy of the Infernal Almanac that exists on this plane. We need it. Go get it!",
   },
   [27240] = {
-    ["T"] = "An Imp\'s Bidding",
+    ["T"] = "An Imp\'s Bidding [NOT WORKING]",
     ["O"] = "Search for a powerful demon in Shadowbreak Ravine in southeastern Desolace.",
     ["D"] = "You may be wondering how I know what to tell you to do. It\'s because I know what Zakara is thinking. How does that work? I\'ll tell you -- it\'s magic.\n\nZakara has used magical techniques far beyond the comprehension of your puny $C brain to determine the demon you\'re looking for is in a clandestine canyon in the southeast of Desolace. I went there once at the bidding of my former master. It\'s called Shadowbreak Ravine.\n\nSo, off you go, to find the big bad demon!",
   },

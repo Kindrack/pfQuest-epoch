@@ -5540,7 +5540,6 @@ pfDB["items"]["enUS-epoch"] = {
   [90695] = "Contender's Vanta Mantle",
   [90696] = "Contender's Vanta Robe",
   [90697] = "Contender's Vanta Wraps",
-  [90697] = "Contender's Vanta Wraps",
   [90698] = "Contender's Vanta Leggings",
   [90699] = "Contender's Vanta Sandals",
   [90700] = "Contender's Waistband of Spellcasting",
