@@ -1,7 +1,7 @@
 pfDB["quests"]["data-epoch"] = {
   -- race flags according to: https://github.com/shagu/pfQuest/blob/104f35678ca39ab1fb78b655f815cc7016f5e0c8/database.lua#L331
-  -- ["race"] = 77,  -- <- available to Alliance: Human, Dwarf, NightElf, Gnome -> 1 + 4 + 8 + 64 = 77   177
-  -- ["race"] = 178, -- <- available to Horde: Orc, Scourge/Undead, Tauren, Troll -> 2 + 16 + 32 + 128 = 178  131
+  -- ["race"] = 77,  -- <- available to Alliance: Human, Dwarf, NightElf, Gnome -> 1 + 4 + 8 + 64 = 77
+  -- ["race"] = 178, -- <- available to Horde: Orc, Scourge/Undead, Tauren, Troll -> 2 + 16 + 32 + 128 = 178
   -- ["race"] = 255, -- <- available for all races:  Human, Dwarf, NightElf, Gnome, Orc, Scourge/Undead, Tauren, Troll
   [5] = {
     ["start"] = {
@@ -20360,32 +20360,108 @@ pfDB["quests"]["data-epoch"] = {
     ["min"] = 22,
   },
   [27246] = {
+    ["start"] = {
+      ["U"] = { 4046 },
+    },
+    ["end"] = {
+      ["U"] = { 4046 },
+    },
+    ["obj"] = {
+      ["I"] = { 63118 },
+    },
+    ["pre"] = { 27060 },
+    ["next"] = { 27247 },
+    ["race"] = 178,
     ["lvl"] = 27,
     ["min"] = 22,
   },
   [27247] = {
+    ["start"] = {
+      ["U"] = { 4046 },
+    },
+    ["end"] = {
+      ["U"] = { 46087 },
+    },
+    ["obj"] = {
+      ["IR"] = { 63120 },
+    },
+    ["pre"] = { 27246 },
+    ["next"] = { 27248, 27249, 27250 },
+    ["race"] = 178,
     ["lvl"] = 30,
     ["min"] = 25,
   },
   [27248] = {
+    ["start"] = {
+      ["U"] = { 46087 },
+    },
+    ["end"] = {
+      ["U"] = { 5395 },
+    },
+    ["pre"] = { 27247 },
+    ["race"] = 178,
     ["lvl"] = 30,
     ["min"] = 25,
   },
   [27249] = {
+    ["start"] = {
+      ["U"] = { 46087 },
+    },
+    ["end"] = {
+      ["U"] = { 46087 },
+    },
+    ["obj"] = {
+      ["U"] = { 46088 },
+    },
+    ["pre"] = { 27247 },
+    ["race"] = 178,
     ["lvl"] = 30,
     ["min"] = 25,
   },
   [27250] = {
+    ["start"] = {
+      ["U"] = { 46087 },
+    },
+    ["end"] = {
+      ["U"] = { 46087 },
+    },
+    ["obj"] = {
+      ["O"] = { 250432 },
+      ["I"] = { 63121 },
+    },
+    ["pre"] = { 27247 },
+    ["race"] = 178,
     ["lvl"] = 30,
     ["min"] = 25,
   },
   [27251] = {
-    ["next"] = 27252,
+    ["start"] = {
+      ["U"] = { 46087 },
+    },
+    ["end"] = {
+      ["U"] = { 4046 },
+    },
+    ["obj"] = {
+      ["IR"] = { 63122 },
+    },
+    ["pre"] = { 27249, 27250 },
+    ["next"] = { 27252 },
+    ["race"] = 178,
     ["lvl"] = 30,
     ["min"] = 25,
   },
   [27252] = {
+    ["start"] = {
+      ["U"] = { 4046 },
+    },
+    ["end"] = {
+      ["O"] = { 250431 },
+    },
+    ["obj"] = {
+      ["IR"] = { 63122 },
+    },
     ["pre"] = { 27251 },
+    ["race"] = 178,
     ["lvl"] = 30,
     ["min"] = 25,
   },
