@@ -24,6 +24,7 @@ pfDB["objects"]["enUS-epoch"] = {
   [180685] = "Waterlogged Wreckage",
   [180751] = "Floating Wreckage",
   [180901] = "Bloodsail Wreckage",
+  [195022] = "Venomhide Egg",
   [250000] = "Alteraci Shilling",
   [250001] = "Aqiri Ynusi",
   [250002] = "Atal\'ai Real",

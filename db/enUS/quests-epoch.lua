@@ -575,6 +575,11 @@ pfDB["quests"]["enUS-epoch"] = {
     ["O"] = "Retrieve the Stonemaul Banner and bring it to Brogg at Brogg\'s Hollow.",
     ["D"] = "When the dragons came and took over Brogg\'s old home, Stonemaul ogres fled and left everything behind, including clan\'s banner.\nBrogg knows banner was kept deep in Stonemaul ogre mound, but these days it\'s called Den of Flame. Brogg must have clan banner to get his revenge on dragons who killed his friends.\nBrogg\'s clan\'s old mound, Den of Flame, is north of my hollow and crawling with dragonkin. Banner will be deep inside the cave. Be careful, $N.",
   },
+  [13887] = {
+    ["T"] = "Venomhide Eggs",
+    ["O"] = "Bring 4 Venomhide Ravasaur Eggs to Mor'vek in the southeast part of the Marshlands.",
+    ["D"] = "Venomhides are vicious and must be trained from the moment they hatch.\n\nIf you want to ride one, you'll need an unhatched egg. Scattered throughout the Marshlands are a number of ravasaur nests. Look for the eggs with lighter colored shells -- those are the ones that will hatch venomhides.\n\nIf you bring me several of the eggs, I'll allow you to keep one and raise its hatchling, with my guidance.",
+  },
   [14087] = {
     ["T"] = "Learn to Ride in Mulgore",
     ["O"] = "Return the pamphlet to Kar Stormsinger at Bloodhoof Village in Mulgore.",

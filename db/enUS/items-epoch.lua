@@ -6,6 +6,7 @@ pfDB["items"]["enUS-epoch"] = {
   [21937] = "Inundated Ectoplasm",
   [33849] = "Mana Berry",
   [45621] = "Elixir of Accuracy",
+  [46364] = "Venomhide Ravasaur Egg",
   [60000] = "Beetah Beetle",
   [60001] = "Bag of Fishing Treasures",
   [60002] = "Bag of Fishing Treasures",
