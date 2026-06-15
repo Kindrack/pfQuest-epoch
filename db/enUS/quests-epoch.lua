@@ -34,6 +34,7 @@ pfDB["quests"]["enUS-epoch"] = {
     ["O"] = "Kill Argus Shadow Mages and bring one of their spell books back to Magistrate Henry Maleb at Southshore in Hillsbrad Foothills.",
     ["D"] = "The letter you brought me was written by a being who calls himself Nagaz, a member of the Argus Wake. I don\'t know what this Argus Wake is, but if they\'re in an alliance with the Syndicate then they must be a threat. \n\nI want you to find the Argus Shadow Mages mentioned in that letter. I want you to find them, and kill them. Bring me anything they possess that will tell us who or what this Nagaz is.\n\nSearch in Strahnbrad and the Uplands, north of there. With luck, you\'ll find these envoys of the Argus Wake there.",
   },
+  [781] = "_",
   [991] = {
     ["T"] = "Raene\'s Cleansing",
     ["O"] = "Find Teronis in Ashenvale.",
@@ -578,6 +579,11 @@ pfDB["quests"]["enUS-epoch"] = {
     ["T"] = "Learn to Ride in Mulgore",
     ["O"] = "Return the pamphlet to Kar Stormsinger at Bloodhoof Village in Mulgore.",
     ["D"] = "This pamphlet advertising riding training and mount purchases was sent from Kar Stormsinger.\n\nKar can be found in Mulgore\'s Bloodhoof Village.",
+  },
+  [24857] = { -- this quest is normally [781] in pfquest-wotlk
+    ["D"] = "After carefully evaluating the map, you realize that what you discovered are the plans made by the Bristleback warchief for an extended siege on Camp Narache.$b$bSurely Chief Hawkwind could use this information!",
+    ["O"] = "Bring the Bristleback Attack Plans to Chief Hawkwind in Camp Narache.",
+    ["T"] = "Attack on Camp Narache"
   },
   [26100] = {
     ["T"] = "Crocolisks in the City",
