@@ -11633,7 +11633,7 @@ pfDB["quests"]["enUS-epoch"] = {
   [31008] = {
     ["T"] = "Troubling Reports",
     ["O"] = "Listen to the Warchief\'s command.",
-    ["D"] = "Will you answer the call of your Warchief? Sit, listen.\n\n<A guard brings you a stack of reports.>\n\nThe spirits are restless, $N, something vile is happening in the frozen lands of Winterspring. Horde mages sense a massive arcane disturbance coming from it\’s Eastern parts and our spies report Spirestone ogre presence, they have never been seen outside of Blackrock Mountain.\n\nI fear dire things must be happening for such an uproar from all directions. Can I count on you to investigate it, adventurer?",
+    ["D"] = "Will you answer the call of your Warchief? Sit, listen.\n\n<A guard brings you a stack of reports.>\n\nThe spirits are restless, $N, something vile is happening in the frozen lands of Winterspring. Horde mages sense a massive arcane disturbance coming from it\'s Eastern parts and our spies report Spirestone ogre presence, they have never been seen outside of Blackrock Mountain.\n\nI fear dire things must be happening for such an uproar from all directions. Can I count on you to investigate it, adventurer?",
   },
   [31009] = {
     ["T"] = "Troubling Reports",
@@ -11678,7 +11678,7 @@ pfDB["quests"]["enUS-epoch"] = {
   [31017] = {
     ["T"] = "Requirements for the Ritual",
     ["O"] = "Lord Maxwell Tyrosus in Light's Hope Chapel needs several materials to purify the scepter:\n- A bottle of Holy Water from Stratholme.\n- One bar of Arcanite from a knowledgeable Alchemist or Miner.\n- Three Sacred Candles, available for purchase at a reagent vendor.\n- Three piles of Soul Dust from an enchanter.\n- One Symbol of Divinity, also available at a reagent vendor.",
-    ["D"] = "I see your peril, $r. Tainting the spirit of a dragon with necromancer magic is a dark deed. If I can help in any way - I will.\n\n<Maxwell spends a few moments planning the ritual.>\n\nI will require a few ingredients and materials:\n\nFist we will need the base that will house the scepter. Arcanite is the most suitable material for this so we will need at least one bar. On the outside of the ritual circle we will need three Sacred Candles placed on three piles of Soul Dust. The most important parts will be a Symbol of Divinity to act as a magic amplifier and a bottle of Stratholme Holy Water to douse the scepter.\n\nReturn to me when you will acquire everything. It\’s a shame that the chapel doesn’t have a reagent vendor… I will be waiting.",
+    ["D"] = "I see your peril, $r. Tainting the spirit of a dragon with necromancer magic is a dark deed. If I can help in any way - I will.\n\n<Maxwell spends a few moments planning the ritual.>\n\nI will require a few ingredients and materials:\n\nFist we will need the base that will house the scepter. Arcanite is the most suitable material for this so we will need at least one bar. On the outside of the ritual circle we will need three Sacred Candles placed on three piles of Soul Dust. The most important parts will be a Symbol of Divinity to act as a magic amplifier and a bottle of Stratholme Holy Water to douse the scepter.\n\nReturn to me when you will acquire everything. It\'s a shame that the chapel doesn\'t have a reagent vendor… I will be waiting.",
   },
   [31018] = {
     ["T"] = "Holy Concentration",
