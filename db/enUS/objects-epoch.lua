@@ -711,6 +711,10 @@ pfDB["objects"]["enUS-epoch"] = {
   [250683] = "Artificially Aged Onyxia Whelp Spawner",
   [250684] = "the back door to Karazhan",
   [250685] = "Swirling Pool",
+  [250686] = "Fire Plume Ridge Area of Interest",
+  [250687] = "Golakka Hot Springs Area of Interest",
+  [250688] = "Ironstone Plateau Area of Interest",
+  [250689] = "Crystal Cave Area of Interest",
   -- Placeholder IDs
   [4000077] = "Memento of Archimonde",
   [5000001] = "Mana Berry Bush",
