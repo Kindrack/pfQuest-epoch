@@ -51,6 +51,7 @@ pfDB["units"]["enUS-epoch"] = {
   [12793] = "Brave Stonehide",
   [12956] = "Zannok Hidepiercer",
   [13220] = "Layo Starstrike",
+  [14242] = "Sulhasa",
   [14624] = "Master Smith Burninate",
   [19861] = "Bip Nigstrom",
   [23579] = "Brogg",
