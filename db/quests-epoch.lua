@@ -18471,6 +18471,7 @@ pfDB["quests"]["data-epoch"] = {
     ["end"] = {
       ["U"] = { 46021 },
     },
+    ["pre"] = { 2980 }, -- 2979 might also be a pre-quest
     ["lvl"] = 48,
     ["min"] = 43,
   },
