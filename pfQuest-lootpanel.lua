@@ -107,7 +107,7 @@ end
 
 local panel = CreateFrame("Frame", "pfQuestEpochLootPanel", WorldMapFrame)
 panel:SetFrameStrata("TOOLTIP")
-panel:SetFrameLevel(200)
+panel:SetFrameLevel(100)
 panel:SetClampedToScreen(true)
 panel:Hide()
 
