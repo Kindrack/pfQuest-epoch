@@ -1052,22 +1052,6 @@ local function ExtendPfQuestConfig()
     table.insert(
         pfQuest_defconfig,
         {
-            text = "|cff33ffccDungeon Maps|r",
-            type = "header"
-        }
-    )
-    table.insert(
-        pfQuest_defconfig,
-        {
-            text = "Show Pins on Dungeon Map/Minimap",
-            default = "0",
-            type = "checkbox",
-            config = "epochDungeonPins"
-        }
-    )
-    table.insert(
-        pfQuest_defconfig,
-        {
             text = "|cff33ffccContinent Map|r",
             type = "header"
         }
@@ -1169,6 +1153,24 @@ local function ExtendPfQuestConfig()
             default = "0",
             type = "checkbox",
             config = "epochHideItemDrops"
+        }
+    )
+
+
+    table.insert(
+        pfQuest_defconfig,
+        {
+            text = "|cff33ffccDungeon Maps|r",
+            type = "header"
+        }
+    )
+    table.insert(
+        pfQuest_defconfig,
+        {
+            text = "Show Pins on Dungeon Map/Minimap",
+            default = "0",
+            type = "checkbox",
+            config = "epochDungeonPins"
         }
     )
 
